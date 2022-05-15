@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-class 1008
+class URI_1008
 {
 
     static void Main(string[] args)
